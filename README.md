@@ -55,3 +55,7 @@ Contributions are welcome! Please open an issue or submit a pull request.
 ## Contact
 
 For any questions, feel free to reach out via GitHub issues.
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=xep1x/telegram-bot-payments&type=date&legend=top-left)](https://www.star-history.com/#xep1x/telegram-bot-payments&type=date&legend=top-left)
